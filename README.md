@@ -1,12 +1,6 @@
 <div align="center">
 
 <!-- Header Banner -->
-```
-╔══════════════════════════════════════════════════════════════╗
-║   🧪  RIZKI AYUANRIYANI  ·  SDET & QA ENGINEER  🧪         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 # Hi there, I'm Rizki Ayu Anriyani👋
 
 ### Software Development Engineer in Test | Quality Assurance Engineer
